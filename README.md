@@ -80,6 +80,7 @@ webstack · GitHub Topics · GitHub
 pro版的话网上很多资源
 
 webstack pro主题下载
+https://www.123gpt.cn/sites/webstack-pro%e4%b8%bb%e9%a2%98%e5%85%8d%e8%b4%b9%e4%b8%8b%e8%bd%bd-123gpt-ai%e5%af%bc%e8%88%aa.html
 
 下载好主题后就可以在后台导入了，
 
